@@ -1,0 +1,61 @@
+league,league_name,region,team,series_played,series_wins,series_losses,series_win_pct,combined_kills_per_minute,avg_game_duration_min,last_results
+LEC,LoL EMEA Championship,Europe (EMEA),Karmine Corp,26,20,6,77,0.866,33.1,WWWLL
+LEC,LoL EMEA Championship,Europe (EMEA),G2 Esports,24,18,6,75,0.83,33.4,LLWWW
+LEC,LoL EMEA Championship,Europe (EMEA),Team Vitality,22,15,7,68,0.849,33.3,WWWLL
+LEC,LoL EMEA Championship,Europe (EMEA),Movistar KOI,25,14,11,56,0.879,33.1,WWWWL
+LEC,LoL EMEA Championship,Europe (EMEA),Natus Vincere,21,12,9,57,0.8,34.5,LWWWL
+LEC,LoL EMEA Championship,Europe (EMEA),GIANTX,22,11,11,50,0.81,33.1,WLWLL
+LEC,LoL EMEA Championship,Europe (EMEA),Fnatic,18,6,12,33,0.768,34,WWLLL
+LEC,LoL EMEA Championship,Europe (EMEA),SK Gaming,18,5,13,28,0.931,35.4,WLLWL
+LEC,LoL EMEA Championship,Europe (EMEA),Team Heretics,18,3,15,17,0.702,32.1,LWLLL
+LEC,LoL EMEA Championship,Europe (EMEA),Shifters,18,2,16,11,0.904,34.5,LLLWL
+LCK,League of Legends Champions Korea,South Korea,Gen.G,39,31,8,79,0.87,32.3,WLWWW
+LCK,League of Legends Champions Korea,South Korea,Dplus Kia,43,27,16,63,0.839,32.5,WLWWL
+LCK,League of Legends Champions Korea,South Korea,T1,39,25,14,64,0.932,32.9,LWLWL
+LCK,League of Legends Champions Korea,South Korea,Hanwha Life Esports,36,24,12,67,0.99,31.7,WWLWL
+LCK,League of Legends Champions Korea,South Korea,KT Rolster,38,20,18,53,0.821,33.1,LWWLL
+LCK,League of Legends Champions Korea,South Korea,BNK FEARX,40,18,22,45,0.964,31.5,LWWLL
+LCK,League of Legends Champions Korea,South Korea,Nongshim RedForce,34,12,22,35,1.046,31.3,LWWWL
+LCK,League of Legends Champions Korea,South Korea,HANJIN BRION,29,10,19,34,0.809,33.3,WWLLL
+LCK,League of Legends Champions Korea,South Korea,DN SOOPers,36,10,26,28,0.898,31.2,WWWLW
+LCK,League of Legends Champions Korea,South Korea,Kiwoom DRX,26,7,19,27,0.917,31.8,LLLLL
+LCK,League of Legends Champions Korea,South Korea,DRX,10,4,6,40,1.037,32.1,WLWLL
+LCK,League of Legends Champions Korea,South Korea,BRION,6,0,6,0,0.896,33.2,LLLLL
+LPL,League of Legends Pro League,China,Bilibili Gaming,51,41,10,80,0.971,32.7,WWWWL
+LPL,League of Legends Pro League,China,Anyone's Legend,50,32,18,64,0.857,32.6,LWLWW
+LPL,League of Legends Pro League,China,Top Esports,49,27,22,55,0.993,31.8,LLLLW
+LPL,League of Legends Pro League,China,JD Gaming,50,27,23,54,0.857,32.3,WLLWL
+LPL,League of Legends Pro League,China,Ninjas in Pyjamas.CN,34,21,13,62,0.857,32.9,WWWWL
+LPL,League of Legends Pro League,China,Invictus Gaming,43,18,25,42,0.934,32.3,WWLLW
+LPL,League of Legends Pro League,China,Team WE,48,17,31,35,0.97,32.1,LWLLL
+LPL,League of Legends Pro League,China,Weibo Gaming,36,16,20,44,0.867,33.2,LWLLW
+LPL,League of Legends Pro League,China,LGD Gaming,33,15,18,45,0.811,32.4,WWLWL
+LPL,League of Legends Pro League,China,LNG Esports,20,11,9,55,0.848,32.3,LLLLL
+LPL,League of Legends Pro League,China,EDward Gaming,30,10,20,33,0.847,33.9,LWWLL
+LPL,League of Legends Pro League,China,ThunderTalk Gaming,30,7,23,23,0.972,30.7,LLLLL
+LPL,League of Legends Pro League,China,Oh My God,13,4,9,31,0.76,33,LLLLL
+LPL,League of Legends Pro League,China,Ultra Prime,11,3,8,27,0.765,33,LWLLW
+LCS,LoL Championship Series,North America,LYON,28,21,7,75,0.738,34.1,WLWWL
+LCS,LoL Championship Series,North America,Cloud9,27,20,7,74,0.758,33.1,WWWLL
+LCS,LoL Championship Series,North America,Team Liquid,28,20,8,71,0.758,32.7,LWWWW
+LCS,LoL Championship Series,North America,FlyQuest,25,11,14,44,0.842,31.8,WWWLL
+LCS,LoL Championship Series,North America,Sentinels,23,10,13,43,0.781,33.3,WWLLL
+LCS,LoL Championship Series,North America,Shopify Rebellion,22,7,15,32,0.806,32.1,LLWWL
+LCS,LoL Championship Series,North America,Disguised,19,5,14,26,0.868,32,LLWLL
+LCS,LoL Championship Series,North America,Dignitas,18,1,17,6,0.831,32,LLLLL
+CBLOL,Campeonato Brasileiro de LoL,Brazil,FURIA,33,24,9,73,0.803,33.2,WWLWW
+CBLOL,Campeonato Brasileiro de LoL,Brazil,LØS,31,22,9,71,0.846,32.3,WLWWW
+CBLOL,Campeonato Brasileiro de LoL,Brazil,LOUD,31,18,13,58,0.843,33.2,WWWLL
+CBLOL,Campeonato Brasileiro de LoL,Brazil,RED Canids,32,18,14,56,0.823,34.1,LLWWL
+CBLOL,Campeonato Brasileiro de LoL,Brazil,Vivo Keyd Stars,28,13,15,46,0.801,32.7,LWWLL
+CBLOL,Campeonato Brasileiro de LoL,Brazil,Fluxo W7M,25,8,17,32,0.83,31.5,LLLLL
+CBLOL,Campeonato Brasileiro de LoL,Brazil,Leviatan,26,7,19,27,0.838,33.2,LWLLL
+CBLOL,Campeonato Brasileiro de LoL,Brazil,paiN Gaming,26,6,20,23,0.861,32.2,LLWLL
+LCP,LoL Championship Pacific,Asia-Pacific,Team Secret Whales,27,25,2,93,0.999,31.2,WLWWW
+LCP,LoL Championship Pacific,Asia-Pacific,Deep Cross Gaming,28,16,12,57,0.993,32,LWWLL
+LCP,LoL Championship Pacific,Asia-Pacific,GAM Esports,25,14,11,56,0.866,33.2,LWWLL
+LCP,LoL Championship Pacific,Asia-Pacific,MVK Esports,25,12,13,48,0.834,33.4,WLLWL
+LCP,LoL Championship Pacific,Asia-Pacific,CTBC Flying Oyster,26,12,14,46,0.993,32.1,WWLWL
+LCP,LoL Championship Pacific,Asia-Pacific,Fukuoka SoftBank HAWKS gaming,22,9,13,41,0.763,33.4,LLLLL
+LCP,LoL Championship Pacific,Asia-Pacific,Ground Zero Gaming,22,8,14,36,0.914,33.2,LLWLW
+LCP,LoL Championship Pacific,Asia-Pacific,DetonatioN FocusMe,19,1,18,5,0.88,31.4,LWLLL
