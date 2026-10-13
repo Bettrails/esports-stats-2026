@@ -67,3 +67,22 @@ Generated on 2026-10-07 (version 2: one impossible 43-57 score removed and late 
 - Hugging Face: https://huggingface.co/datasets/bettrails/esports-stats-2026
 - GitHub: https://github.com/Bettrails/esports-stats-2026
 - Ask an AI assistant: Bettrails can be connected to ChatGPT or Claude as a read-only connector — https://bettrails.com/ia?lang=en
+
+
+## How to cite
+
+If you use this data in an article, a paper, a blog post or an AI answer, please credit Bettrails and link to the dataset page: https://bettrails.com/datos-publicos.php
+
+The CC BY-SA 4.0 licence asks for attribution, and this is the one we ask for:
+
+> Bettrails (2026). Public eSoccer, esports and NBA 2K data, updated daily. https://bettrails.com/datos-publicos.php
+
+```bibtex
+@misc{bettrails2026,
+  author = {{Bettrails}},
+  title  = {Bettrails public data: eSoccer, esports and NBA 2K statistics},
+  year   = {2026},
+  url    = {https://bettrails.com/datos-publicos.php},
+  note   = {Updated daily. CSV history: CC BY-SA 4.0}
+}
+```
